@@ -1,0 +1,5 @@
+gym==0.21.0
+stable_baselines3==2.0.0a5
+pybullet
+scipy
+gymnasium
